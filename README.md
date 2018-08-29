@@ -23,6 +23,9 @@ Then run
 Python3 analyze.py
 ```
 The result will be stored in '/root/path/result'
+Here are some results:
+[!image1](https://github.com/dehaisea/ActionNet/blob/master/data/result/00644.jpg)
+[!image2](https://github.com/dehaisea/ActionNet/blob/master/data/result/00781.jpg)
 
 ## Train model
 1. Extract different region from video 
