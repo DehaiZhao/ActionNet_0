@@ -13,7 +13,7 @@ Firstly, you should modify some parameters in 'analyze.py'.
   - video_name: path to the video you want to test
   - path: path to the dataset
   - label_name: label.txt
-  - ck_path: path to Tensorflow check point
+  - ck_path: path to Tensorflow check point, download [here](https://drive.google.com/file/d/1kPgs-9Ywho13v8LFOQNutpkJF6l2KZhg/view?usp=sharing)
   - num: class number before merge
   - nums: class number after merge
   - parts: T0 is the first frame and T1 is the second frame
